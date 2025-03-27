@@ -2,6 +2,7 @@
   "expo": {
     "name": "MotorcyclePartsCatalog",
     "slug": "MotorcyclePartsCatalog",
+    "displayName": "MotorcyclePartsCatalog",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",

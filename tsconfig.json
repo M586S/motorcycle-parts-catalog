@@ -12,6 +12,9 @@
     "**/*.ts",
     "**/*.tsx",
     ".expo/types/**/*.ts",
-    "expo-env.d.ts"
+    "expo-env.d.ts",
+    "src/screens/HomeScreen.js",
+    "src/screens/PartDetailScreen.js",
+    "nativewind-env.d.ts"
   ]
 }
